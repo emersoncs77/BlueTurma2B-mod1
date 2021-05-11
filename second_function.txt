@@ -1,0 +1,4 @@
+def imprime_oi()
+    print("oi")
+
+imprime_oi()
